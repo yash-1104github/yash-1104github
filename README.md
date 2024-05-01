@@ -5,7 +5,12 @@
 - 📫 How to reach me **gyash1104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+LinkedIn <br>
+Leetcode <br>
+Replit  <br>
+Twitter <br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

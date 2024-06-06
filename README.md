@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-LinkedIn <br>
+<a href="www.linkedin.com/in/yash-gupta-1a137b223"><i class="fa fa-linkedin"></i></a> 
 Leetcode <br>
 Replit  <br>
 Twitter <br>

@@ -6,11 +6,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
- <a href="https://www.linkedin.com/in/yash-gupta-1a137b223/">Linkedin</a> 
-Leetcode <br>
-Replit  <br>
-Twitter <br>
+<p align="left" >
+ <a href="https://www.linkedin.com/in/yash-gupta-1a137b223/">Linkedin</a> <br>
+ <a href="https://leetcode.com/u/yash_leetcode04/">Leetcode</a> <br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

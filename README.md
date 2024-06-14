@@ -7,8 +7,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-gupta-1a137b223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-gupta-1a137b223/" height="30" width="40" /></a> -->
-   <!-- ->
- <a href="https://leetcode.com/in/https://leetcode.com/u/yash_leetcode04/" target="blank"><img align="center" src="file:///C:/Users/This%20PC/Desktop/leetcode.svg" alt="https://leetcode.com/u/yash_leetcode04/" height="30" width="40" /></a>  
+   <!-- 
+ <a href="https://leetcode.com/in/https://leetcode.com/u/yash_leetcode04/" target="blank"><img align="center" src="file:///C:/Users/This%20PC/Desktop/leetcode.svg" alt="https://leetcode.com/u/yash_leetcode04/" height="30" width="40" /></a> -->
    
  <a href="https://leetcode.com/u/yash_leetcode04/">Leetcode</a> <br>
  <a href="https://www.linkedin.com/in/yash-gupta-1a137b223">Linkedin</a> <br>

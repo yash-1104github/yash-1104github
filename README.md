@@ -9,7 +9,7 @@
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-gupta-1a137b223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-gupta-1a137b223/" height="30" width="40" /></a> -->
 <!--  <a href="https://leetcode.com/in/https://leetcode.com/u/yash_leetcode04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Leetcode-in-.svg" alt="https://leetcode.com/u/yash_leetcode04/" height="30" width="40" /></a>  -->
  <a href="https://leetcode.com/u/yash_leetcode04/">Leetcode</a> <br>
- <a href="https://www.linkedin.com/in/yash-gupta-1a137b223">Leetcode</a> <br>
+ <a href="https://www.linkedin.com/in/yash-gupta-1a137b223">Linkedin</a> <br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

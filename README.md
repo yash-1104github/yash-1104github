@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">Full Stack Developer Intern at OctaNet | MERN Developer</h3>
 
-
+🌱 I’m currently learning **EXPRESSJS,REACT,NODEJS,MONGODB**
 - 📫 How to reach me **gyash1104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/@abdal880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abdal880" height="30" width="40" /></a> -->
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-gupta-1a137b223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-gupta-1a137b223/" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/abdal.ahmad.1804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdal.ahmad.1804" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/abd_ahmad143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abd_ahmad143" height="30" width="40" /></a> -->
-<!-- <a href="https://www.youtube.com/channel/ucgyvqvz6ehrubdn0zoju4_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucgyvqvz6ehrubdn0zoju4_a" height="30" width="40" /></a> -->
+ <a href="https://leetcode.com/in/https://leetcode.com/u/yash_leetcode04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Leetcode-in-.svg" alt="https://leetcode.com/u/yash_leetcode04/" height="30" width="40" /></a> 
 
  <a href="https://leetcode.com/u/yash_leetcode04/">Leetcode</a> <br>
 </p>

@@ -46,7 +46,7 @@ I'm a passionate **Web Developer** with a knack for creating dynamic and respons
 
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yash-gupta-1a137b223)   
 - **Email:** gyash1104@gmail.com  
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+  
 
 ---
 

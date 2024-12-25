@@ -1,28 +1,57 @@
 
 <h1 align="center">Hi there👋, I'm Yash Gupta</h1>
-<h3 align="center">Full Stack Developer </h3>
-
-- 🌱 I’m currently learning *EXPRESSJS,NODEJS*
-- 📫 How to reach me **gyash1104@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-1104github&show_icons=true&locale=en&layout=compact" alt="yash-1104github" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-1104github&" alt="yash-1104github" /></p>
+I'm a passionate **Web Developer** with a knack for creating dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new tech, contributing to open-source, or sharing knowledge with the community.
+
+## 🚀 Skills & Technologies
+
+### Front-End
+- **Languages:** HTML, CSS, JavaScript/TypeScript
+- **Frameworks & Libraries:** React, Vue.js, Tailwind CSS, Bootstrap
+- **Tools:** Figma, Adobe XD, Chrome DevTools
+
+### Back-End
+- **Languages:** Node.js, Python, PHP
+- **Frameworks:** Express.js, Django, Laravel
+- **Databases:** MongoDB, MySQL, PostgreSQL
+
+### Others
+- Version Control: Git, GitHub
+- CI/CD: GitHub Actions, Netlify, Vercel
+- Testing: Jest, Cypress
+- Deployment: AWS, Docker, Heroku
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-1104github&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-1104github&layout=compact&theme=radical)
+<br>
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yash-1104github&theme=radical)
+
+
+
+
+---
+
+## 🌱 Currently Learning
+- Advanced React Patterns
+- Performance Optimization Techniques
+
+---
+
+## 🤝 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yash-gupta-1a137b223)   
+- **Email:** gyash1104@gmail.com  
+- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+### 💡 Fun Fact
+I believe **"The best way to predict the future is to invent it."**
+
 

@@ -8,20 +8,19 @@ I'm a passionate **Web Developer** with a knack for creating dynamic and respons
 ## 🚀 Skills & Technologies
 
 ### Front-End
-- **Languages:** HTML, CSS, JavaScript/TypeScript
-- **Frameworks & Libraries:** React, Vue.js, Tailwind CSS, Bootstrap
-- **Tools:** Figma, Adobe XD, Chrome DevTools
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React, Vite.js, Tailwind CSS
+- **Tools:** Figma, Chrome DevTools
 
 ### Back-End
-- **Languages:** Node.js, Python, PHP
-- **Frameworks:** Express.js, Django, Laravel
-- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Languages:** Node.js
+- **Frameworks:** Express.js
+- **Databases:** MongoDB, MySQL, Firebase
 
 ### Others
 - Version Control: Git, GitHub
 - CI/CD: GitHub Actions, Netlify, Vercel
 - Testing: Jest, Cypress
-- Deployment: AWS, Docker, Heroku
 
 ---
 

@@ -48,15 +48,13 @@ I'm a passionate **Web Developer** with a knack for creating dynamic and respons
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
 </a>
 
-<a href="mailto:gyash1104@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30">
-</a>
-
 <a href="https://leetcode.com/u/yash_leetcode04/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30">
 </a>
   
 
+- 📫 How to reach me **gyash1104@gmail.com**
+- 
 ---
 
 ### 💡 Fun Fact

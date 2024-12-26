@@ -5,6 +5,8 @@
 
 I'm a passionate **Web Developer** with a knack for creating dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new tech, contributing to open-source, or sharing knowledge with the community.
 
+ 📫 How to reach me **gyash1104@gmail.com**
+
 ## 🚀 Skills & Technologies
 
 ### Front-End
@@ -53,8 +55,6 @@ I'm a passionate **Web Developer** with a knack for creating dynamic and respons
 </a>
   
 
-- 📫 How to reach me **gyash1104@gmail.com**
-- 
 ---
 
 ### 💡 Fun Fact

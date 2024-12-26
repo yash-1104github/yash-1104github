@@ -44,19 +44,17 @@ I'm a passionate **Web Developer** with a knack for creating dynamic and respons
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** (https://www.linkedin.com/in/yash-gupta-1a137b223)   
-- **Email:** gyash1104@gmail.com  <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/yash-gupta-1a137b223" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
 </a>
+
 <a href="mailto:gyash1104@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30">
 </a>
-<p align="left">
-<a href="https://www.linkedin.com/in/yash-gupta-1a137b223" target="blank"><img align="center" src="https://raw.githubusercontent.com/yash-1104github/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yash-gupta-1a137b223" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/naina64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naina64" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bandilnut7x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bandilnut7x" height="30" width="40" /></a>
-</p>
+
+<a href="https://leetcode.com/u/yash_leetcode04/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30">
+</a>
   
 
 ---

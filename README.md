@@ -6,7 +6,7 @@
 I'm a passionate **Web Developer** with a knack for creating dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new tech, contributing to open-source, or sharing knowledge with the community.
 
  - 📫 How to reach me **gyash1104@gmail.com**
- - 👨‍💻 All of my projects are available at [https://naina-portfolio.netlify.app/](https://portfolio-gamma-seven-42.vercel.app/)
+ - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-gamma-seven-42.vercel.app/)
 
 ## 🚀 Skills & Technologies
 

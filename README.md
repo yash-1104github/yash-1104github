@@ -22,8 +22,8 @@ I'm a passionate **Web Developer** with a knack for creating dynamic and respons
 
 ### Others
 - Version Control: Git, GitHub
-- CI/CD: GitHub Actions, Netlify, Vercel
-- Testing: Jest, Cypress
+- CI/CD: GitHub , Netlify, Vercel
+- Tools: PostMan 
 
 ---
 

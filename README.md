@@ -13,17 +13,15 @@ I'm a passionate **Web Developer** with a knack for creating dynamic and respons
 ### Front-End
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks & Libraries:** React, Vite.js, Tailwind CSS
-- **Tools:** Figma, Chrome DevTools
 
 ### Back-End
 - **Languages:** Node.js
 - **Frameworks:** Express.js
 - **Databases:** MongoDB, MySQL, Firebase
 
-### Others
-- Version Control: Git, GitHub
+### Others 
 - CI/CD: GitHub , Netlify, Vercel
-- Tools: PostMan 
+- Tools: PostMan , Git, GitHub , VsCode
 
 ---
 
@@ -47,13 +45,15 @@ I'm a passionate **Web Developer** with a knack for creating dynamic and respons
 
 ## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/yash-gupta-1a137b223" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
-</a>
 
-<a href="https://leetcode.com/u/yash_leetcode04/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30">
-</a>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/yash-gupta-1a137b223" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIN" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/yash_leetcode04/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/yashcode40/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" /></a>
+ 
+</p>
+
   
 
 ---

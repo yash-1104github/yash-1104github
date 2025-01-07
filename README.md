@@ -30,6 +30,7 @@ I'm a passionate **Web Developer** with a knack for creating dynamic and respons
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-1104github&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-1104github&layout=compact&theme=radical)
 <br>
+
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yash-1104github&theme=radical)
 
 
@@ -39,13 +40,11 @@ I'm a passionate **Web Developer** with a knack for creating dynamic and respons
 
 ## 🌱 Currently Learning
 - Advanced React Patterns
-- Performance Optimization Techniques
+- Next.JS
 
 ---
 
 ## 🤝 Let's Connect
-
-
 
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-gupta-1a137b223" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIN" height="30" width="40" /></a>

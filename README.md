@@ -29,12 +29,6 @@ I'm a passionate **Web Developer** with a knack for creating dynamic and respons
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-1104github&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-1104github&layout=compact&theme=radical)
-<br>
-
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yash-1104github&theme=radical)
-
-
-
 
 ---
 

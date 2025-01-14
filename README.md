@@ -1,27 +1,25 @@
 
 <h1 align="center">Hi there👋, I'm Yash Gupta</h1>
 
-
-
-I'm a passionate **Web Developer** with a knack for creating dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new tech, contributing to open-source, or sharing knowledge with the community.
+I'm a passionate **Software Developer** with a knack for creating dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new tech, contributing to open-source, or sharing knowledge with the community.
 
  - 📫 How to reach me **gyash1104@gmail.com**
- - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-gamma-seven-42.vercel.app/)
+ - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-gamma-seven-42.vercel.app/)**
 
 ## 🚀 Skills & Technologies
 
 ### Front-End
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React, Vite.js, Tailwind CSS
+- **Frameworks & Libraries:** React, Vite.js, TailwindCSS, Shadcn-UI 
 
 ### Back-End
-- **Languages:** Node.js
+- **Languages:** Next.js, Python  
 - **Frameworks:** Express.js
 - **Databases:** MongoDB, MySQL, Firebase
 
 ### Others 
-- CI/CD: GitHub , Netlify, Vercel
-- Tools: PostMan , Git, GitHub , VsCode
+- **CI/CD:** GitHub, Netlify, Vercel 
+- **Tools:** PostMan, Git, PowerBI 
 
 ---
 
@@ -29,12 +27,6 @@ I'm a passionate **Web Developer** with a knack for creating dynamic and respons
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-1104github&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-1104github&layout=compact&theme=radical)
-
----
-
-## 🌱 Currently Learning
-- Advanced React Patterns
-- Next.JS
 
 ---
 
@@ -47,11 +39,9 @@ I'm a passionate **Web Developer** with a knack for creating dynamic and respons
  
 </p>
 
-  
+
+## 🌱 Currently Learning
+- Advanced React Patterns
+- Next.JS
 
 ---
-
-### 💡 Fun Fact
-I believe **"The best way to predict the future is to invent it."**
-
-

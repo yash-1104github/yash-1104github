@@ -3,9 +3,9 @@
 
 I'm a passionate **Software Developer** with a knack for creating dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new tech, contributing to open-source, or sharing knowledge with the community.
 
- - 📫 How to reach me **gyash1104@gmail.com**
- - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-gamma-seven-42.vercel.app/)**
- -  **Resume** *https://drive.google.com/file/d/13JbowIFW3pij4OtxptNCJhfvKaXrR8Js/view?usp=sharing*
+ - 📫 How to reach me *gyash1104@gmail.com*
+ - 👨‍💻 All of my projects are available at *[My Portfolio](https://portfolio-gamma-seven-42.vercel.app/)*
+ -  **Resume**   *https://drive.google.com/file/d/13JbowIFW3pij4OtxptNCJhfvKaXrR8Js/view?usp=sharing*
 
 ## 🚀 Skills & Technologies
 

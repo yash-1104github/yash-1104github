@@ -3,7 +3,7 @@
 
 I'm a passionate **Software Developer** with a knack for creating dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new tech, contributing to open-source, or sharing knowledge with the community.
 
- - 📫 How to reach me *gyash1104@gmail.com*
+ - :mailbox: How to reach me: [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:gyash1104@gmail.com)
  - 👨‍💻 All of my projects are available at *[My Portfolio](https://portfolio-gamma-seven-42.vercel.app/)*
  -  **Resume**   *https://drive.google.com/file/d/131NWRXEU2Esenxaty4vWuu32OlB9hAnS/view?usp=sharing*
 

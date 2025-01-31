@@ -37,12 +37,6 @@ I'm a passionate **Software Developer** with a knack for creating dynamic and re
 <a href="https://www.linkedin.com/in/yash-gupta-1a137b223" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIN" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/yash_leetcode04/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/yashcode40/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" /></a>
- 
 </p>
-
-
-## 🌱 Currently Learning
-- Advanced React Patterns
-- Next.JS
 
 ---

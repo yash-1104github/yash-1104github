@@ -5,7 +5,7 @@ I'm a passionate **Software Developer** with a knack for creating dynamic and re
 
  - 📫 How to reach me *gyash1104@gmail.com*
  - 👨‍💻 All of my projects are available at *[My Portfolio](https://portfolio-gamma-seven-42.vercel.app/)*
- -  **Know more about me** -  *https://drive.google.com/file/d/131NWRXEU2Esenxaty4vWuu32OlB9hAnS/view?usp=sharing*
+ -  **Know more about me** -  *https://drive.google.com/file/d/11JIuBBzoJD-1fGFKp5DrhBBrCgIQNFER/view?usp=sharing*
 
 <br>
     

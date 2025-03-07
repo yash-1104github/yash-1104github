@@ -27,16 +27,13 @@ I'm a passionate **Software Developer** with a knack for creating dynamic and re
 
 ## 🚀 Skills & Technologies
 
-### Front-End
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React, Vite.js, TailwindCSS, Shadcn-UI 
+### Web Technology
+- **Languages:** HTML, CSS, JavaScript, Next.js, Python, Node.js 
+- **Frameworks & Libraries:** React, Next.js, Express.js, TailwindCSS, Shadcn-UI
+-  **Databases:** PostgreSQL, MongoDB, MySQL, Firebase
 
-### Back-End
-- **Languages:** Next.js, Python  
-- **Frameworks:** Express.js
-- **Databases:** MongoDB, MySQL, Firebase
-
-### Others 
+###  DevOps
+- **Platform** Docker, AWS, Google Cloud Platform, Redis
 - **CI/CD:** GitHub, Netlify, Vercel 
 - **Tools:** PostMan, Git, PowerBI 
 

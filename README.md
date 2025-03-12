@@ -38,7 +38,6 @@ I'm a passionate **Software Developer** with a knack for creating dynamic and re
 - **Tools:** PostMan, Git, PowerBI 
 
 ## 📈 GitHub Stats
-![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=yash-1104github&theme=radical)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-1104github&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-1104github&layout=compact&theme=radical)
 

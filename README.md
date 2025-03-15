@@ -1,7 +1,8 @@
 
-<h1 align="center">Hi there👋, I'm Yash Gupta</h1>
+<h1 align="center">Hi there👋, I'm Yash</h1>
 
-I'm a passionate **Software Developer** with a knack for creating dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new tech, contributing to open-source, or sharing knowledge with the community.
+
+I'm a passionate **Software Developer** with a strong passion for Software and problem-solving with expertise in technologies like C++, JavaScript, Next.js, React, Node.js, Express.js, Databases. I have a solid understanding of building scalable and efficient solutions. I am eager to apply my technical skills, to create impactful solutions and grow as a software developer.
 
  - 👨‍💻 Projects -  [AI Deco](https://ai-deco.vercel.app/) , [Travel Sathi](https://ai-trip-planner-gules.vercel.app/) , [Foodiverse](https://recipe-junction-ten.vercel.app/)
  - 📍 **Resume** -  [Profile](https://drive.google.com/file/d/11JIuBBzoJD-1fGFKp5DrhBBrCgIQNFER/view?usp=sharing)
@@ -37,6 +38,4 @@ I'm a passionate **Software Developer** with a knack for creating dynamic and re
 Feel free to reach out to me!
 - **Email:** gyash1104@gmail.com, yashcode40@gmail.com
 - **LinkedIn:** [Yash's LinkedIn](https://www.linkedin.com/in/yash-gupta-1a137b223/)
-- **Twitter:** [@yash_twitter](https://twitter.com/yash_twitter)
-
 ---

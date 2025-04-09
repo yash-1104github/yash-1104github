@@ -6,7 +6,7 @@ I'm a passionate **Software Developer** with a strong passion for Software and p
 
  - 👨‍💻 Projects -  [AI Deco](https://ai-deco.vercel.app/) , [Travel Sathi](https://ai-trip-planner-gules.vercel.app/) , [Foodiverse](https://recipe-junction-ten.vercel.app/)
  - 📍 **Resume** -  [Profile](https://drive.google.com/file/d/11JIuBBzoJD-1fGFKp5DrhBBrCgIQNFER/view?usp=sharing)
-
+ - 👨‍💻 **Portfolio** - [Portfolio(https://portfolio-yash-1104githubs-projects.vercel.app/)]
 ## 🚀 Skills & Technologies
 - **Programming Languages:** JavaScript, Python, Java, C++
 - **Web Development:** HTML, CSS, React, Next.js, Node.js

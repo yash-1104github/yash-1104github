@@ -8,7 +8,7 @@ I'm a passionate Software Developer with a strong passion for Software and probl
  - 📍 **Resume** -  [Resume](https://drive.google.com/file/d/1rl3Py3tmiPsy35LGINg22jxXr6nYyx8_/view?usp=sharing)
  - 👨‍💻 **Portfolio** - [Portfolio](https://portfolio-yash-1104githubs-projects.vercel.app/)
 ## 🚀 Skills & Technologies
-- **Programming Languages:** JavaScript, Python, MySQL, C++
+- **Programming Languages:** JavaScript,TypeScript, MySQL, C++
 - **Development:** HTML, CSS, React, Next.js, Node.js, React-Native, TailwindCSS, Shadcn-UI
 - **Databases:** MySQL, MongoDB, PostgreSQL, Firebase, Supabase
 - **Tools & Technologies:** VSCode, Clerk, Git, Docker, AWS, Google Cloud Platform, Postman, Vercel, Render

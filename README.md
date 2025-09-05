@@ -6,7 +6,7 @@ I'm a passionate Software Developer with a strong passion for Software and probl
 
  - 👨‍💻 Projects -  [AI Deco](https://ai-deco.vercel.app/) , [Travel Buddy](https://ai-trip-planner-gules.vercel.app/) , [GenAI](https://ai-image-generation-drab.vercel.app/)
  - 📍 **Resume** -  [Resume](https://drive.google.com/file/d/1rl3Py3tmiPsy35LGINg22jxXr6nYyx8_/view?usp=sharing)
- - 👨‍💻 **Portfolio** - [Portfolio](https://portfolio-yash-1104githubs-projects.vercel.app/)
+ - 👨‍💻 **Portfolio** - [Portfolio](https://porfolio-gyash.vercel.app/)
 ## 🚀 Skills & Technologies
 - **Programming Languages:** JavaScript,TypeScript, MySQL, C++
 - **Development:** HTML, CSS, React, Next.js, Node.js, React-Native, TailwindCSS, Shadcn-UI

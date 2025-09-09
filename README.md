@@ -12,7 +12,7 @@ I'm a passionate Software Developer with a strong passion for Software and probl
 - **Development:** HTML, CSS, React, Next.js, Node.js, React-Native, RESTful API, FastAPI, Redux, TailwindCSS, Shadcn-UI
 - **Databases:** PostgreSQL, MongoDB, Firebase, MySQL, Prisma, Drizzles ORMs 
 - **DevOps:** , AWS, Google Cloud, Docker, Kubernetes, CI/CD Pipelines, Git, System Design pattern
-- **Tools & Technologies:** VSCode, Clerk, Postman, Vercel, Render, Postman, Github, Figma
+- **Tools & Technologies:** VSCode, Clerk, Postman, Vercel, Render, Github, Figma
 
 
 ## 📈 GitHub Stats

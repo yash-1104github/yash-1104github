@@ -8,10 +8,11 @@ I'm a passionate Software Developer with a strong passion for Software and probl
  - 📍 **Resume** -  [Resume](https://drive.google.com/file/d/1rl3Py3tmiPsy35LGINg22jxXr6nYyx8_/view?usp=sharing)
  - 👨‍💻 **Portfolio** - [Portfolio](https://porfolio-gyash.vercel.app/)
 ## 🚀 Skills & Technologies
-- **Programming Languages:** JavaScript,TypeScript, MySQL, C++
-- **Development:** HTML, CSS, React, Next.js, Node.js, React-Native, TailwindCSS, Shadcn-UI
-- **Databases:** MySQL, MongoDB, PostgreSQL, Firebase, Supabase
-- **Tools & Technologies:** VSCode, Clerk, Git, Docker, AWS, Google Cloud Platform, Postman, Vercel, Render
+- **Programming Languages:** JavaScript, Python, TypeScript, MySQL, C++
+- **Development:** HTML, CSS, React, Next.js, Node.js, React-Native, RESTful API, FastAPI, Redux, TailwindCSS, Shadcn-UI, Material UI
+- **Databases:** PostgreSQL, MongoDB, Firebase, MySQL, Prisma, Drizzles ORMs 
+- **DevOps:** , AWS, Google Cloud, Docker, Kubernetes, CI/CD Pipelines, Git, System Design pattern
+- **Tools & Technologies:** VSCode, Clerk, Postman, Vercel, Render, Postman, Github, Figma
 
 
 ## 📈 GitHub Stats

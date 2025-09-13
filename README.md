@@ -22,9 +22,6 @@ I'm a passionate Software Developer with a strong passion for Software and probl
 ## 👨‍💻 Coding Profile
 <br/>
  <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/yash-gupta-1a137b223"">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   
   <a href="https://leetcode.com/u/yash_leetcode04//">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>

@@ -16,6 +16,7 @@ I'm a passionate Software Developer with a strong passion for Software and probl
 
 
 ## 📈 GitHub Stats
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-1104github&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-1104github&layout=compact&theme=radical)
 
 ## 👨‍💻 Coding Profile

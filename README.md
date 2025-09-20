@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there👋, I'm Yash</h1>
+<h1 align="center">Hi there 👋 </h1>
 
 
 Hello, I am Yash Software Developer from India with a 1 year of professional experience. I have expertise in technologies like I have expertise in Frontend , Backend and DeveOps technologies. I have a solid understanding of building scalable and efficient solutions. I am eager to apply my technical skills to create impactful solutions and grow as a Software developer. Ready to Collaborate

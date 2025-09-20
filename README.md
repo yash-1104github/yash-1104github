@@ -19,9 +19,3 @@ Hello, I am Yash Software Developer from India with a 1 year of professional exp
 ## 📈 GitHub Stats
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-1104github&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-1104github&layout=compact&theme=radical)
-
-## 📫 Contact
-Feel free to reach out to me!
-- **Email:** gyash1104@gmail.com, yashcode40@gmail.com
-- **LinkedIn:** [Yash's LinkedIn](https://www.linkedin.com/in/yash-gupta-1a137b223/)
----

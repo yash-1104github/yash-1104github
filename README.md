@@ -7,7 +7,7 @@ Hello, I am Yash Software Developer from India with a 1 year of professional exp
  - 👨‍💻 **Projects** -  [AI Deco](https://ai-deco.vercel.app/) , [Travel Buddy](https://ai-trip-planner-gules.vercel.app/) , [GenAI](https://ai-image-generation-drab.vercel.app/), [SafeDoc AI](https://safe-doc-ai.vercel.app/)
  - 📍 **Resume** -  [Resume](https://drive.google.com/file/d/1rl3Py3tmiPsy35LGINg22jxXr6nYyx8_/view?usp=sharing)
  - 👨‍💻 **Portfolio** - [Portfolio](https://porfolio-gyash.vercel.app/)
- - 📍 **Coding Profile** - [Leetcode](https://leetcode.com/u/yash_leetcode04/) , [GFG](https://www.geeksforgeeks.org/user/yashcode40/)
+ - 🌟 **Coding Profile** - [Leetcode](https://leetcode.com/u/yash_leetcode04/) , [GFG](https://www.geeksforgeeks.org/user/yashcode40/)
 ## 🚀 Skills & Technologies
 - **Programming Languages:** JavaScript, Python, TypeScript, MySQL, C++
 - **Development:** HTML, CSS, React, Next.js, Node.js, React-Native, RESTful API, FastAPI, Redux, TailwindCSS, Shadcn-UI
@@ -19,19 +19,6 @@ Hello, I am Yash Software Developer from India with a 1 year of professional exp
 ## 📈 GitHub Stats
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-1104github&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-1104github&layout=compact&theme=radical)
-
-## 👨‍💻 Coding Profile
-<br/>
- <div id="badges" align="center">
-  
-  <a href="https://leetcode.com/u/yash_leetcode04//">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-</a>
-
- <a href="https://www.geeksforgeeks.org/user/yashcode40/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-9B59B6?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"  alt="GeeksforGeeks Badge"/>
-</a>
-</div>
 
 ## 📫 Contact
 Feel free to reach out to me!

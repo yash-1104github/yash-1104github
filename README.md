@@ -10,10 +10,10 @@ Hello, I am Yash Software Developer from India with a 6 months of professional e
  - 🌟 **Coding Profile** - [Leetcode](https://leetcode.com/u/yash_leetcode04/) , [GFG](https://www.geeksforgeeks.org/user/yashcode40/)
 ## 🚀 Skills & Technologies
 - **Programming Languages:** JavaScript, Python, TypeScript, MySQL, C++
-- **Development:** HTML, CSS, React, Next.js, Node.js, React-Native, RESTful API, FastAPI, Redux, TailwindCSS, Shadcn-UI
-- **Databases:** PostgreSQL, MongoDB, Firebase, MySQL, Prisma, Drizzles ORMs 
+- **Development:** HTML, CSS, React, Next.js, Node.js, React-Native, RESTful API, WebSocket, FastAPI, Redux, TailwindCSS, 
+- **Databases:** PostgreSQL, Redis, MongoDB, Firebase, MySQL, Prisma, Drizzles ORMs 
 - **DevOps:** , AWS, Google Cloud, Docker, Kubernetes, CI/CD Pipelines, Git, System Design pattern
-- **Tools & Technologies:** VSCode, Clerk, Postman, Vercel, Render, Github, Figma
+- **Tools & Technologies:** VSCode, Clerk, Postman, Vercel, Render, Github, Figma , Shadcn-UI
 
 
 ## 📈 GitHub Stats

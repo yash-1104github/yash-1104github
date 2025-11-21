@@ -13,7 +13,7 @@ Hello, I am Yash Software Developer from India with a 6 months of professional e
 - **Development:** HTML, CSS, React, Next.js, Node.js, React-Native, RESTful API, WebSocket, FastAPI, Redux, TailwindCSS
 - **Databases:** PostgreSQL, Vector Database, Redis, MongoDB, Firebase, MySQL, Prisma, Drizzles ORMs
 - **Testing:** Vitest, Jest, Cypress, Supertest, Playwrite
-- **DevOps:** , AWS, Google Cloud, Docker, Kubernetes, CI/CD Pipelines, Git, System Design pattern
+- **DevOps:** Kubernetes, AWS(EC2, S3, Lambda, CloudFront), Docker, Jenkins, Github Actions, Git, MCP Server, RAG
 - **Tools & Technologies:** VSCode, Clerk, Postman, Vercel, Render, Github, Figma , Shadcn-UI, Storybook
 
 

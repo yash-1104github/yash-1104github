@@ -2,7 +2,7 @@
 <h1 align="center">Hi, there 👋 </h1>
 
 
-Hello, I am Yash Software Developer from India with a 6 months of professional experience. I have expertise in technologies like I have expertise in Frontend , Backend and DeveOps technologies. I have a solid understanding of building scalable and efficient solutions. Open Source contributor in organisation **Evu** and **EnCiv**. Ready to Collaborate and Contribute
+Hello, I am Yash Software Developer from India with a 1 year of professional experience. I have expertise in technologies like I have expertise in Frontend , Backend and DeveOps technologies. I have a solid understanding of building scalable and efficient solutions. Open Source contributor in organisation **Evu** and **EnCiv**. Ready to Collaborate and Contribute
 
  - 👨‍💻 **Projects** -  [AI Deco](https://github.com/yash-1104github/AI-Deco) , [TransYobe](https://github.com/yash-1104github/TransYobe/tree/main), [Travel Buddy](https://github.com/yash-1104github/Travel_buddy) , [GenAI](https://github.com/yash-1104github/GenAI), [SafeDoc AI](https://github.com/yash-1104github/SafeDoc.AI)
  - 📍 **Resume** -  [Resume](https://drive.google.com/file/d/1WygsOQvvzc0JnzOd3K4Z8Y2Xb_saBwd_/view)

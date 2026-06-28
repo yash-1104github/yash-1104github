@@ -9,7 +9,7 @@ Hello, I am Yash Software Developer from India with a 1 year of professional exp
  - 👨‍💻 **Portfolio** - [Portfolio](https://porfolio-gyash.vercel.app/)
  - 🌟 **Coding Profile** - [Leetcode](https://leetcode.com/u/yash_leetcode04/) , [GFG](https://www.geeksforgeeks.org/user/yashcode40/)
 ## 🚀 Skills & Technologies
-- **Programming Languages:** JavaScript, Python, TypeScript, MySQL, C++ , RAG
+- **Programming Languages:** JavaScript, Python, TypeScript, MySQL, C++ 
 - **Development:** HTML, CSS, React, Next.js, Node.js, React-Native, RESTful API, WebSocket, FastAPI, Redux, TailwindCSS
 - **Databases:** PostgreSQL, Vector Database, Redis, MongoDB, Firebase, MySQL, Prisma, Drizzles ORMs
 - **Testing:** Vitest, Jest, Cypress, Supertest, Playwrite

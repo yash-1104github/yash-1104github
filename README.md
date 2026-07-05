@@ -186,18 +186,6 @@ const yash = {
 
 ---
 
-## Education & Achievements
-
-**Jaypee Institute of Information Technology, Noida** — B.Tech Computer Science *(Aug 2021 – May 2025)*
-
-| Achievement | Detail |
-|-------------|--------|
-| 🧩 **DSA** | 800+ problems solved on [LeetCode](https://leetcode.com/u/yash_leetcode04/), [GFG](https://www.geeksforgeeks.org/user/yashcode40/), Codeforces & CodingNinjas |
-| 🌐 **Open Source** | Contributor at Evu, EnCiv, Greenstand & more |
-| 🏅 **Certifications** | Postman Student Expert (2025) · Big Data 101 (2024) · Full Stack Developer (2023) |
-
----
-
 ## Connect With Me
 
 <div align="center">
@@ -210,11 +198,4 @@ const yash = {
 </div>
 
 ---
-
-<div align="center">
-
-**Open to full-time opportunities, collaborations, and open source contributions.**
-
-<img src="https://komarev.com/ghpvc/?username=yash-1104github&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
-
 </div>

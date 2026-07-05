@@ -18,5 +18,14 @@ Hello, I am Yash Software Developer from India with a 1 year of professional exp
 
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=yash-1104github&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-1104github&layout=compact&theme=radical)
+
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://streak-stats.demolab.com?user=yash-1104github&theme=neon-dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yash-1104github&theme=github_dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>

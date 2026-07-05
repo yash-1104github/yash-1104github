@@ -4,10 +4,11 @@
 
 **Software Developer** · Bangalore, India · B.Tech CSE Graduate
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-porfolio--gyash.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://porfolio-gyash.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-Download-ef4444?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1WygsOQvvzc0JnzOd3K4Z8Y2Xb_saBwd_/view)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashgupta)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashgupta1104@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://porfolio-gyash.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1WygsOQvvzc0JnzOd3K4Z8Y2Xb_saBwd_/view)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashgupta)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashgupta1104@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yash_leetcode04/)
 
 </div>
 
@@ -60,6 +61,15 @@ Currently leading frontend development at **TatvaOps**, shipping production feat
 - Added CI/CD pipeline (40% fewer build errors) and Docker containerization
 
 </details>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yash-1104github&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yash-1104github&theme=github_dark" alt="Top Languages" />
+</p>
 
 ---
 
@@ -157,35 +167,6 @@ Currently leading frontend development at **TatvaOps**, shipping production feat
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yash-1104github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-1104github&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-1104github&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yash-1104github&theme=tokyo_night" height="165" alt="Repos per Language" />
-
-</div>
-
-<img src="https://github.com/yash-1104github/yash-1104github/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-yash--1104github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-1104github)
-[![LeetCode](https://img.shields.io/badge/LeetCode-yash__leetcode04-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yash_leetcode04/)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-yashcode40-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yashcode40/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://porfolio-gyash.vercel.app/)
-
-</div>
 
 ---
 </div>

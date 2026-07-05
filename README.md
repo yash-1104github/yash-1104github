@@ -19,16 +19,6 @@ B.Tech graduate in **Computer Science** with **1+ year** of professional experie
 
 Currently leading frontend development at **TatvaOps**, shipping production features for 350+ users. Open source contributor at **Evu**, **EnCiv**, **Greenstand**, and more. **Available to join immediately.**
 
-```typescript
-const yash = {
-  role: "Software Developer",
-  location: "Bangalore, India",
-  focus: ["React", "Next.js", "Node.js", "AI / RAG", "DevOps"],
-  currentlyLearning: ["AI Agents", "MCP Servers", "System Design"],
-  openTo: ["Full-time roles", "Collaboration", "Open Source"],
-};
-```
-
 ---
 
 ## Experience

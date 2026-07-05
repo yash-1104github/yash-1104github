@@ -26,7 +26,7 @@ Currently leading frontend development at **TatvaOps**, shipping production feat
 
 | Role | Company | Duration | Location |
 |------|---------|----------|----------|
-| **Software Developer** | [TatvaOps](https://tatvaops.com) | Jan 2026 – Present | Bangalore |
+| **Software Developer** | TatvaOps Pvt Ltd | Jan 2026 – Present | Bangalore |
 | **Software Developer** | Material Depot | Jun 2025 – Sep 2025 | Bangalore |
 | **Web Developer** | OctaNet Pvt Ltd | Jun 2024 – Jul 2024 | Remote |
 
